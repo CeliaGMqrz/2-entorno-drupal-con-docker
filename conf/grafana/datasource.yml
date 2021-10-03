@@ -1,4 +1,4 @@
-# ESTE ARCHIVO ES LA CONFIGURACION DEL GRAFANA, PARA NO TENER QUE ENTRAR Y PONERLO LOS DATOS DE LOKI Y PROMETHEUS
+# Este fichero yml indica a Grafana los datos necesarios para la conexión con Loki y Prometheus
 apiVersion: 1
 
 deleteDatasources:
